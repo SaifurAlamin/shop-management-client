@@ -1,6 +1,7 @@
 # 🛍️ Shop Management System
 
 A responsive shop management dashboard for inventory, products, sales, purchases, customers and daily business operations.
+
 Topics:
 react javascript vite tailwindcss shop-management inventory-management dashboard recharts
 
