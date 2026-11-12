@@ -1,6 +1,8 @@
 # 🛍️ Shop Management System
 
-A modern, responsive, and efficient shop management web application designed to streamline inventory tracking, sales monitoring, and overall daily store operations.
+A responsive shop management dashboard for inventory, products, sales, purchases, customers and daily business operations.
+Topics:
+react javascript vite tailwindcss shop-management inventory-management dashboard recharts
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react)
