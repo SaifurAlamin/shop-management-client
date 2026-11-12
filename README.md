@@ -2,10 +2,11 @@
 
 A responsive shop management dashboard for inventory, products, sales, purchases, customers and daily business operations.
 
-Topics:
+### 🌐 Live Website
+[https://shop-manager-client.netlify.app/](https://shop-manager-client.netlify.app/)
+
+### 🏷️ Topics
 react javascript vite tailwindcss shop-management inventory-management dashboard recharts
-Live Website
-https://megh-bari-asset.netlify.app/
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react)
